@@ -1,0 +1,13 @@
+{
+  "appname": "CU Buyer App",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "412FC0C6-A2C1-4114-BC0D-5BAD260E0DE6",
+  "buyerid": "buyer1",
+  "environment": "prod",
+  "base": {
+    "left":true,
+    "right":false,
+    "top":true,
+    "bottom":false
+  }
+}
